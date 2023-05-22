@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/BAEKER-230522/Config_Server.git
+          uri: https://github.com/BAEKER-230522/Application_Settings.git
